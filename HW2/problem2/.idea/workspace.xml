@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1272a459-3c71-4c5f-9f7d-a39341dd69a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1igFcxTgUQLTQj9EfMsyiuNpBEA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="problem2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1272a459-3c71-4c5f-9f7d-a39341dd69a9" name="Default Changelist" comment="" />
+      <created>1602321411051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602321411051</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="244" y="311" width="424" height="484" key="FileChooserDialogImpl" timestamp="1602668144662">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="244" y="311" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1602668144662" />
+    <state width="999" height="292" key="GridCell.Tab.0.bottom" timestamp="1602328216385">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="999" height="292" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1602328216385" />
+    <state width="999" height="292" key="GridCell.Tab.0.center" timestamp="1602328216384">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="999" height="292" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1602328216384" />
+    <state width="999" height="292" key="GridCell.Tab.0.left" timestamp="1602328216384">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="999" height="292" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1602328216384" />
+    <state width="999" height="292" key="GridCell.Tab.0.right" timestamp="1602328216384">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="999" height="292" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1602328216384" />
+    <state x="122" y="334" width="780" height="439" key="NewModule_or_Project.wizard" timestamp="1602668155313">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="122" y="334" width="780" height="439" key="NewModule_or_Project.wizard/0.27.1920.1053@0.27.1920.1053" timestamp="1602668155313" />
+    <state x="0" y="155" width="1372" height="796" key="new project wizard" timestamp="1602668136963">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="0" y="155" width="1372" height="796" key="new project wizard/0.27.1920.1053@0.27.1920.1053" timestamp="1602668136963" />
+    <state x="130" y="254" key="run.anything.popup" timestamp="1602324772563">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="130" y="254" key="run.anything.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1602324772563" />
+  </component>
+</project>
